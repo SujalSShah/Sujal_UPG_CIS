@@ -1,6 +1,6 @@
 print("\nExample 1")
-text = "शक्ति" # Sh-a-k-virama-t-i
-print("The Hindi Word is शक्ति")
+text = "शब्द"
+print("The Hindi Word is शब्द")
 for char in text:
     if char == '\u094D': # Unicode for Virama
         print("Virama found!")
