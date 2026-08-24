@@ -3,7 +3,7 @@ text = "शक्ति" # Sh-a-k-virama-t-i
 print("A Hindi Word is शक्ति")
 for char in text:
     if char == '\u094D': # Unicode for Virama
-        print("Virama found!n")
+        print("Virama found!")
  #   else:
  #       print(" No Virama found")
 
