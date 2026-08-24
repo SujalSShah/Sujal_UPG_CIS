@@ -5,7 +5,7 @@ for char in text:
     if char == '\u094D': # Unicode for Virama
         print("Virama found!")
  #   else:
- #       print(" No Virama found")
+ #       print("No Virama found")
 
 
 
@@ -14,9 +14,9 @@ for char in text:
 #print("A Hindi Word is कमल")
 #for char in text:
 #    if char == '\u094D':
-#        print("Virama found")
+#        print("Virama found!")
 #    else:
-#        print(" No Virama found")
+#        print("No Virama found")
 
 
 
@@ -27,4 +27,4 @@ for char in text:
 #    if char == '\u0ACD':
 #        print("Virama found!")
 #    else:
-#        print(" No Virama found")
+#        print("No Virama found")
